@@ -11,7 +11,7 @@ import '../../viewmodels/category_viewmodel.dart';
 import '../../viewmodels/global_ui_viewmodel.dart';
 import '../../viewmodels/product_viewmodel.dart';
 import '../favorite/favorite_screen.dart';
-
+/// dashboard sreen
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({Key? key}) : super(key: key);
 
