@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2650443d-7b66-4fb1-a82f-c8fe16601840" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/models/cart_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/cart_model.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/models/category_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/category_model.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/models/favorite_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/favorite_model.dart" afterDir="false" />
@@ -15,6 +16,11 @@
       <change beforePath="$PROJECT_DIR$/lib/repositories/category_repositories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repositories/category_repositories.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/repositories/favorite_repositories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repositories/favorite_repositories.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/repositories/product_repositories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repositories/product_repositories.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/account/account_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/account/account_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/account/edit_account_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/account/edit_account_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/auth/forget_password_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/auth/forget_password_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/auth/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/auth/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/auth/register_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/auth/register_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

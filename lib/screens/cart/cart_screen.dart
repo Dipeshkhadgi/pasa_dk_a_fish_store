@@ -6,7 +6,7 @@ import '../../models/cart_model.dart';
 import '../../models/favorite_model.dart';
 import '../../repositories/cart_repositories.dart';
 import '../../viewmodels/global_ui_viewmodel.dart';
-
+/// srceen of the cart
 class CartScreen extends StatefulWidget {
   const CartScreen({Key? key}) : super(key: key);
 
