@@ -4,6 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
 
+///repositatory for authorization of the user
 class AuthRepository {
   CollectionReference<UserModel> userRef =
       FirebaseService.db.collection("users").withConverter<UserModel>(

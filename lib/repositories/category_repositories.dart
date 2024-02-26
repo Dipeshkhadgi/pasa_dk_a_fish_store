@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../models/category_model.dart';
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
-
+///repository of category
 class CategoryRepository {
   CollectionReference<CategoryModel> categoryRef =
       FirebaseService.db.collection("categories").withConverter<CategoryModel>(

@@ -4,7 +4,7 @@ import '../models/category_model.dart';
 import '../models/product_model.dart';
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
-
+///repository of product
 class ProductRepository {
   CollectionReference<ProductModel> productRef =
      FirebaseService.db.collection("products").withConverter<ProductModel>(

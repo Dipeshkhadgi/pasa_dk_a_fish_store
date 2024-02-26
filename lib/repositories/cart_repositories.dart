@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../models/cart_model.dart';
 import '../models/product_model.dart';
 import '../services/firebase_service.dart';
-
+/// repository for cart info
 class CartRepository {
   final instance = FirebaseService.db.collection("cart").withConverter(
         fromFirestore: (snapshot, _) {
