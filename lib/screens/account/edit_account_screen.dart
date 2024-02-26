@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 // WIP
 class EditAccountScreen extends StatefulWidget {
   const EditAccountScreen({Key? key}) : super(key: key);
-
+/// screen for edit account
   @override
   State<EditAccountScreen> createState() => _EditAccountScreenState();
 }
