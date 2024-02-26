@@ -1,7 +1,7 @@
 // To parse this JSON data, do
 //
 //     final categoryModel = categoryModelFromJson(jsonString);
-
+///category model to seperate items by category while listing items
 import 'dart:convert';
 import 'package:cloud_firestore/cloud_firestore.dart';
 

@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:ecommerce/models/product_model.dart';
 
+///cart module for adding products
 class CartModel {
 
   CartModel({required this.items, required this.user_id});
