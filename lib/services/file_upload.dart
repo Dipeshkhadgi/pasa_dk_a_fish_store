@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:ecommerce/services/firebase_service.dart';
-
+/// service for file upload
 class FileUpload{
   Reference storage = FirebaseService.storageRef;
 
