@@ -5,7 +5,8 @@ import 'package:ecommerce/viewmodels/auth_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 import '../services/local_notification_service.dart';
-
+/// screen of splash
+///
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
